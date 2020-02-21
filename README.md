@@ -1,4 +1,4 @@
-# TMF644_PrivacyManagement
+# TMF644_Privacy
 TM Forum Open APIs (Apache 2.0) Privacy Management API
 
 The Privacy Management API provides standardized mechanism for privacy
