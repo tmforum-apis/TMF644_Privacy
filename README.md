@@ -1,11 +1,8 @@
-# TMF644_Privacy
-TM Forum Open APIs (Apache 2.0) Privacy Management API
+# TMF644 Privacy
 
-The Privacy Management API provides standardized mechanism for privacy
-profile types, privacy profiles and privacy agreements such as creation,
-update, retrieval, deletion and notification of events.
+TM Forum Open API (Apache 2.0) Privacy API.
 
-To access this API; (the Specification, Postman Collection, Swagger file,
-Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+profile types, privacy profiles and privacy agreements such as creation, update, retrieval, deletion and notification of events.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
